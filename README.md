@@ -1,18 +1,81 @@
-# 💫 About Me:
- I’m currently working on  <br>Building **AI-powered client acquisition systems** and high-end **luxury websites** with advanced animations  <br><br> I’m looking to collaborate on  <br>AI SaaS products, automation tools, and **premium business websites**  <br><br> I’m looking for help with  <br>Scaling projects to production level, advanced backend architecture, and SaaS growth strategies  <br><br> I’m currently learning  <br>Advanced Next.js, system design, and building **scalable AI-driven platforms**  <br><br> Ask me about  <br>Web animations (GSAP), frontend development, AI automation, and building client-generating websites  <br><br> Fun fact  <br>I don’t just build websites — I build **digital experiences that sell**  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=200&section=header&text=Hello!%20I'm%20Heet%20Soni&fontSize=40&fontColor=c0caf5&animation=fadeIn&fontAlignY=38" />
 
+  <a href="https://github.com/HeetSoni26"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9ECE6A&center=true&vCenter=true&width=600&lines=B.Tech+Student+%7C+AI+%26+Data+Science;Building+the+Future+with+AI;Passionate+about+Open+Source;Researching+Generative+AI+%26+CV" alt="Typing SVG" /></a>
+  
+  <br />
+  
+  <p align="center">
+    <a href="https://komarev.com/ghpvc/?username=HeetSoni26&label=Profile%20Views&color=7aa2f7&style=flat">
+      <img src="https://komarev.com/ghpvc/?username=HeetSoni26&label=Profile%20Views&color=7aa2f7&style=flat" alt="Visitor Count" />
+    </a>
+  </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/heet-soni-8a9082273) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:heetks2607@gmail.com) 
+  <p align="center">
+    <a href="mailto:heetks2607@gmail.com"><img src="https://img.shields.io/badge/Email-heetks2607%40gmail.com-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e&color=7aa2f7" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/heet-soni-8a9082273/"><img src="https://img.shields.io/badge/LinkedIn-Heet%20Soni-1a1b26?style=for-the-badge&logo=linkedin&logoColor=c0caf5&color=7aa2f7" alt="LinkedIn" /></a>
+    <a href="https://github.com/HeetSoni26"><img src="https://img.shields.io/badge/GitHub-HeetSoni26-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5&color=7aa2f7" alt="GitHub" /></a>
+  </p>
+</div>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HeetSoni26&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HeetSoni26&theme=cobalt&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HeetSoni26&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=HeetSoni26&icon=0&color=0)](https://visitcount.itsvg.in)
+## 👨‍💻 About Me
 
+I am a highly motivated **Artificial Intelligence & Data Science** undergraduate student at **CVM University** (Class of 2027), based in Gujarat, India. I am actively building a strong foundation focused on Artificial Intelligence, Machine Learning, Computer Vision, Generative AI, and Open Source development.
 
+My goal is to continuously learn, contribute to impactful open-source projects, and prepare for advanced research opportunities such as an M.Sc. Thesis in Computer Science and collaborations with AI Research Labs.
+
+- 🎓 **Education:** B.Tech in Artificial Intelligence & Data Science at CVM University (Expected 2027)
+- 📍 **Location:** Gujarat, India
+- 🎯 **Goals:** M.Sc. Thesis-based Computer Science admissions, AI Research Labs, and open-source contributions.
+
+<br/>
+
+## ⚡ Engineering Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+<br/>
+
+## 💼 Featured Projects
+
+Here are some of my top open-source projects that highlight my interests in AI, Systems, and Development:
+
+| 🏆 Project | 🚀 Description & Tech Stack | 🔗 Link |
+|:---|:---|:---|
+| **RAGchat** | Built a retrieval-augmented generation (RAG) chat application utilizing **Python** to experiment with LLMs. | [Repository](https://github.com/HeetSoni26/RAGchat) |
+| **Autonomous Traffic Intelligence System** | Developed an intelligent traffic monitoring system using **Python** and Computer Vision techniques. | [Repository](https://github.com/HeetSoni26/Autonomous-Traffic-Intelligence-System) |
+| **Smart Stadium Copilot** | A copilot application for stadium management and analytics using **Python**. | [Repository](https://github.com/HeetSoni26/Smart-Stadium-Copilot) |
+| **Openbeats** | Built a multimedia application developed in **Kotlin**. | [Repository](https://github.com/HeetSoni26/Openbeats) |
+| **Blockchain-based E-voting System** | Researched and developed an E-voting interface integrating decentralized principles using **HTML/JS**. | [Repository](https://github.com/HeetSoni26/Blockchain-based-E-voting-system) |
+| **Eco-sphere** | Built a web-based platform focusing on environmental tracking and sustainability using **JavaScript**. | [Repository](https://github.com/HeetSoni26/eco-sphere) |
+
+<br/>
+
+## 📈 GitHub Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HeetSoni26&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeetSoni26&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeetSoni26&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="60%" />
+</div>
+
+<br/>
+
+## 💬 Signature Quote
+
+> *"Driven by curiosity, fueled by data, and building for the future."*
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=100&section=footer" />
+</div>
