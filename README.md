@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Location-Gujarat,_India-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 <p>
-  <a href="https://github.com/HeetSoni26" target="_blank">
+  <a href="https://heet-portfolio-two.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
