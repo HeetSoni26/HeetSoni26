@@ -12,7 +12,7 @@
 </p>
 <p>
   <a href="https://heet-portfolio-two.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Let's-Connect-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/heet-soni-8a9082273/" target="_blank">
