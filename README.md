@@ -11,9 +11,12 @@
   <img src="https://img.shields.io/badge/Location-Gujarat,_India-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 <p>
+ 
   <a href="https://heet-portfolio-two.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Let's-Connect-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Let's%20Connect-A78BFA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
+
+
   &nbsp;
   <a href="https://www.linkedin.com/in/heet-soni-8a9082273/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
