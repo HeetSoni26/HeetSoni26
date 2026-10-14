@@ -47,9 +47,9 @@
 
 I am an **Artificial Intelligence & Data Science** undergraduate from **A. D. Patel Institute of Technology (CVM University)**, passionate about building intelligent systems that solve real-world problems through **Artificial Intelligence, Machine Learning, Computer Vision, Generative AI, and Multi-Agent Systems**.
 
-My long-term goal is to pursue a **thesis-based M.Sc. in Computer Science** with a strong research focus, particularly in AI-driven systems, Computer Vision, Human-Centered AI, and decentralized intelligent architectures.
+My long-term goal is to pursue a **course-based M.Sc. in Computer Science** with a strong technical focus, particularly in AI-driven systems, Computer Vision, Artificial Intelligence, Software Development , and decentralized intelligent architectures.
 
-I enjoy transforming research ideas into practical applications by combining software engineering with modern AI technologies. Alongside academic research, I actively develop AI-powered software, contribute to open-source projects, participate in hackathons, and continuously strengthen my engineering skills.
+I enjoy transforming research ideas into practical applications by combining software engineering with modern AI technologies. Alongside academic projects, I actively develop AI-powered software, contribute to open-source projects, participate in hackathons, and continuously strengthen my engineering skills.
 
 My current interests include:
 
@@ -66,11 +66,9 @@ My current interests include:
 
 **Current Goals**
 
-- 🎓 Thesis-based M.Sc. in Computer Science
-- 📄 Publish high-quality AI research papers
+- 🎓 Course-based M.Sc. in Computer Science
 - 🚀 Build impactful AI products
 - 🌍 Contribute to meaningful open-source projects
-- 💼 Collaborate with AI research laboratories
 
 ---
 
